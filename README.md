@@ -10,4 +10,5 @@ Shell script for MacOS system maintenance;
 How to use
 ----------
 `./pip-update-all.sh` prompts before actions.
+
 `./pip-update-all.sh -y` updates all unattended.
